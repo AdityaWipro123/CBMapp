@@ -9,7 +9,7 @@ import shutil
 import pandas as pd
 from datetime import datetime
 import streamlit as st
-from tkinterdnd2 import TkinterDnD, DND_FILES
+#from tkinterdnd2 import TkinterDnD, DND_FILES
 import numpy as np
 import random
 import tensorflow as tf
