@@ -21,7 +21,7 @@ import random
 import tensorflow as tf
 from tensorflow.keras.models import load_model
 import joblib
-from tkinter import messagebox
+#from tkinter import messagebox
 
 # Set a random seed for reproducibility
 def set_random_seed(seed_value=42):
